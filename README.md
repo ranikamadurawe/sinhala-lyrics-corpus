@@ -18,4 +18,9 @@ Data format of the json file
 12. `writer`: List containing the name of Writers
 13. `views`: No of time the song was viewed in the original site
 
-> Certain fields which were not available in the scraped site have been marked appropriatly.
+## 
+* The data has been scraped from [Sinhala Songbook](https://sinhalasongbook.com/)
+
+* Certain fields which were not available in the scraped site have been marked appropriatly.
+
+* This corpus has been extracted for educational purposes
